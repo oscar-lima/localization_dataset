@@ -3,7 +3,7 @@ localization_dataset
 
 A [robot](localization_dataset) running ROS is moving in an apartment like environment, while recording laser scanner data.
 This dataset is particularly useful for localization or mapping research, it contains ground truth information about the
-location of the center of the robot with submilimiter precision accuracy, see [this](http://welcome.isr.tecnico.ulisboa.pt/isrobonet/) to know more about our testbed.
+location of the center of the robot with submillimeter precision accuracy, see [this](http://welcome.isr.tecnico.ulisboa.pt/isrobonet/) to know more about our testbed.
 
 bag descriptions
 ================
