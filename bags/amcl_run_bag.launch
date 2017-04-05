@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <launch>
 
+    <!-- NOTE: This is an example launch file, please edit accordingly -->
+    
     <!-- path to recorded rosbag with the laser scanner data -->
     <arg name="rosbag_filename" default="29082016_10pm_without_tf_map_to_odom_timestamps_corrected" />
     <arg name="rosbag_path"
